@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BetterHRCodeTest</string>
+    <string name="oh_no">Oh no… Something went wrong.</string>
+    <string name="no_mission_links">No Mission Links</string>
+    <string name="retry">Retry</string>
+    <string name="error_message">Error message</string>
+
+</resources>

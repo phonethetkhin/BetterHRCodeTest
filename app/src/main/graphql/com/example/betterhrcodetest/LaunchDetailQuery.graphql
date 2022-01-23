@@ -1,0 +1,8 @@
+query LaunchDetailQuery($missionId:ID!) {
+    mission(id: $missionId) {
+        id
+        name
+        twitter
+        wikipedia
+    }
+}
